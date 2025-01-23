@@ -83,5 +83,3 @@ A classe principal possui:
 
 ---
 
-Desenvolvido para práticas de geração de senhas seguras em C#. Caso tenha dúvidas ou sugestões, fique à vontade para contribuir!
-
