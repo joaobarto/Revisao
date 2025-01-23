@@ -21,3 +21,10 @@ C:\Users\Aluno\Documents\Joao v\Revisao\obj\Debug\net8.0\Gerador de senhas.sourc
 C:\Users\Aluno\Documents\Joao v\Revisao\obj\Debug\net8.0\Gerador de senhas.dll
 C:\Users\Aluno\Documents\Joao v\Revisao\obj\Debug\net8.0\refint\Gerador de senhas.dll
 C:\Users\Aluno\Documents\Joao v\Revisao\obj\Debug\net8.0\Gerador de senhas.pdb
+C:\Users\Aluno\Documents\Joao v\Revisao\bin\Debug\net8.0\Gerador de senhas.exe
+C:\Users\Aluno\Documents\Joao v\Revisao\bin\Debug\net8.0\Gerador de senhas.deps.json
+C:\Users\Aluno\Documents\Joao v\Revisao\bin\Debug\net8.0\Gerador de senhas.runtimeconfig.json
+C:\Users\Aluno\Documents\Joao v\Revisao\bin\Debug\net8.0\Gerador de senhas.dll
+C:\Users\Aluno\Documents\Joao v\Revisao\bin\Debug\net8.0\Gerador de senhas.pdb
+C:\Users\Aluno\Documents\Joao v\Revisao\obj\Debug\net8.0\Gerador de senhas.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Joao v\Revisao\obj\Debug\net8.0\ref\Gerador de senhas.dll

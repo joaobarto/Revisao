@@ -21,7 +21,7 @@ class Program
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\n                        ERRO! Escolha S ou N.");
                 Console.ResetColor();
-                Console.WriteLine("\n                         Incluir números S/N?");
+                Console.WriteLine("\n                   Incluir números S/N?");
                 numero = Console.ReadLine()?.ToUpper();
             }
             bool incluirNumeros = numero == "S";
@@ -33,7 +33,7 @@ class Program
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\n                       ERRO! Escolha S ou N.");
                 Console.ResetColor();
-                Console.WriteLine("\n              Incluir símbolos S/N?");
+            Console.WriteLine("\n                   Incluir símbolos S/N?");
                 simbolo = Console.ReadLine()?.ToUpper();
             }
             bool incluirSimbolos = simbolo == "S";
@@ -45,7 +45,7 @@ class Program
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\n                       ERRO! Escolha S ou N.");
                 Console.ResetColor();
-                Console.WriteLine("\n              Incluir letras maiúsculas S/N?");
+            Console.WriteLine("\n                  Incluir letras maiúsculas S/N?");
                 Letras_ma = Console.ReadLine()?.ToUpper();
             }
             bool incluirMaiusculas = Letras_ma == "S";
@@ -57,13 +57,14 @@ class Program
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\n                       ERRO! Escolha S ou N.");
                 Console.ResetColor();
-                Console.WriteLine("\n              Incluir letras minúsculas S/N?");
+                Console.WriteLine("\n                  Incluir letras minúsculas S/N?");
                 Letras_mi = Console.ReadLine()?.ToUpper();
             }
             bool incluirMinusculas = Letras_mi == "S";
 
             string senha = GerarSenha(quantidade_d, incluirNumeros, incluirSimbolos, incluirMaiusculas, incluirMinusculas);
             Console.ForegroundColor = ConsoleColor.Green;
+            Console.Clear();
             Console.WriteLine($"\n                  Senha gerada: {senha}");
             Console.ResetColor();
         }
