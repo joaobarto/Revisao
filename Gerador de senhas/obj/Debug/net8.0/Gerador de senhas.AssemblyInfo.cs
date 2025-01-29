@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerador de senhas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7af7ace935ab83009279538254675c5b2940d7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7095b9d0aeac94f442bbb81c8b09a9d811d6696c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerador de senhas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerador de senhas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

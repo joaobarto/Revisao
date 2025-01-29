@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\Joao v\\Revisao\\Gerador de senhas.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\JV\\Revisao2024\\Gerador de senhas\\Gerador de senhas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\Joao v\\Revisao\\Gerador de senhas.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\JV\\Revisao2024\\Gerador de senhas\\Gerador de senhas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Joao v\\Revisao\\Gerador de senhas.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\JV\\Revisao2024\\Gerador de senhas\\Gerador de senhas.csproj",
         "projectName": "Gerador de senhas",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\Joao v\\Revisao\\Gerador de senhas.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\JV\\Revisao2024\\Gerador de senhas\\Gerador de senhas.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\Joao v\\Revisao\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\JV\\Revisao2024\\Gerador de senhas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
