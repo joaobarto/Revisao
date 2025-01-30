@@ -71,11 +71,11 @@ footer {
     margin-bottom: 50px; 
 }
 #carouselExampleAutoplaying {
-    width: 101%; /* Garante que o carrossel ocupe toda a largura da tela */
+    width: 101%; 
 }
 
 .carousel-inner {
-    width: 145%; /* Assegura que o carrossel ocupe 100% da largura do seu container */
+    width: 145%; 
     height: 150%;
 }
 .texto{
@@ -92,15 +92,15 @@ footer {
     font-size: 1.3em;
 }
 .card-custom {
-    background-color: rgb(88, 55, 12); /* Cor de fundo personalizada (rosa claro) */
-    border: 1px solid rgb(88, 55, 12); /* Cor de borda */
+    background-color: rgb(56, 36, 9); 
+    border: 1px solid rgb(255, 255, 255); 
 }
 
 .card-custom .card-body {
-    color: #ffffff; /* Cor do texto (vermelho escuro) */
+    color: #ffffff; 
 }
 
 .card-custom .btn-primary {
-    background-color: #155724; /* Cor do botão (verde escuro) */
-    border-color: #155724; /* Borda do botão */
+    background-color: #155724; 
+    border-color: #155724; 
 }
