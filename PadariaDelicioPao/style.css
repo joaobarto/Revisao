@@ -70,3 +70,37 @@ footer {
 .row.align-items-center {
     margin-bottom: 50px; 
 }
+#carouselExampleAutoplaying {
+    width: 101%; /* Garante que o carrossel ocupe toda a largura da tela */
+}
+
+.carousel-inner {
+    width: 145%; /* Assegura que o carrossel ocupe 100% da largura do seu container */
+    height: 150%;
+}
+.texto{
+ font-size: 1.5em;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.texto2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textobolo{
+    font-size: 1.3em;
+}
+.card-custom {
+    background-color: rgb(88, 55, 12); /* Cor de fundo personalizada (rosa claro) */
+    border: 1px solid rgb(88, 55, 12); /* Cor de borda */
+}
+
+.card-custom .card-body {
+    color: #ffffff; /* Cor do texto (vermelho escuro) */
+}
+
+.card-custom .btn-primary {
+    background-color: #155724; /* Cor do botão (verde escuro) */
+    border-color: #155724; /* Borda do botão */
+}
