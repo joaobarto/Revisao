@@ -27,7 +27,7 @@ header {
 }
 
 .nav-link:hover {
-    color: #ff6f00; /* Laranja suave */
+    color: #ff6f00; 
 }
 
 .container {
@@ -103,4 +103,22 @@ footer {
 .card-custom .btn-primary {
     background-color: #155724; 
     border-color: #155724; 
+}
+
+.img-fluid {
+    border-radius: 15px;
+    object-fit: cover; 
+    width: 110%;
+    margin-left: -5%; 
+    width: 101%;
+    border-color: white;
+}
+.palavrasb{
+    color: white;
+}
+.mainb{
+    margin-bottom: -3%;
+}
+.imgsn{
+    height: 10%;
 }
